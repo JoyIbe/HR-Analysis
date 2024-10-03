@@ -36,7 +36,7 @@ Data cleaning and processing was carried out on both Ms Excel and postgres respe
 10. The gender distribution across departments is fairly distributed amongst male than female employees.
     
 # Code:
-Check [HR.sql](https://github.com/JoyIbe/HR-Analysis-using-Postgresql/blob/main/HR.sql)
+For remaining codes, do check [HR.sql](https://github.com/JoyIbe/HR-Analysis-using-Postgresql/blob/main/HR.sql)
 ```sql
 -- Create Table for database
 DROP TABLE IF EXISTS human_resource;

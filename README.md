@@ -1,9 +1,9 @@
-## Detailed HR Analysis using Postgresql
+# Detailed HR Analysis
 
-# Project Overview
+## Project Overview
 This analysis aims to understand an organization's workforce better and make data-driven decisions. It contains a variety of information related to employees, recruitment, performance, and retention.
 
-# Major Features
+## Major Features
 1. Employee Demographics: Age, gender, race, etc provide insights into workforce diversity and help analyze trends related to age and gender in specific roles.
 2. Employment Information: Job title, department, date hired and terminated help track employee tenure and departmental structure, facilitating workforce planning.
 3. Compensation: Salary data allows for analysis of compensation trends, pay disparity, and financial forecasting.
@@ -11,12 +11,12 @@ This analysis aims to understand an organization's workforce better and make dat
 5. Absenteeism: Tracking absences can help identify potential issues such as burnout or dissatisfaction within teams.
 6. Employment Status: Understanding current employment status aids in retention analysis and identifying turnover rates.
 
-# Tools
+## Tools
 - Excel: For data cleaning and processing
 - Postgresql: For data analysis
 - Powerbi: Creating visualization
 
-# Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 1. What is the gender breakdown of employees in the company?
 2. What is the race/ethnicity breakdown of employees in the company?
 3. What is the age distribution of employees in the company?
@@ -30,9 +30,7 @@ This analysis aims to understand an organization's workforce better and make dat
 11. What is the tenure distribution for each department?
 
 
-<img width="564" alt="HR Dashboard 3" src="https://github.com/user-attachments/assets/2987ff90-2016-45a8-adf2-9c779e4b217e">
-
-# Findings and Conclusion
+## Findings and Conclusion
 1. According to this dataset, we have more female employees than male.
 2. The production departments records more turnover than other departments in the organizations while Executive office records least.
 3. The average length of employment for terminated employees is around 9 years.
@@ -44,7 +42,7 @@ This analysis aims to understand an organization's workforce better and make dat
 9. Larger number of employees are recruited from mostly Indeed and LinkedIn.
 10. The gender distribution across departments is fairly distributed amongst male than female employees.
     
-# Code:
+## Code:
 For remaining codes, do check [HR.sql](https://github.com/JoyIbe/HR-Analysis-using-Postgresql/blob/main/HR.sql)
 ```sql
 -- Create Table for database

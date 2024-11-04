@@ -30,7 +30,7 @@ Data cleaning and processing was carried out on both Ms Excel and postgres respe
 4. This data records more white race and US Citizens over all other races and citizenship description.
 5. Age distribution: A large number of employees are between 40-49. Then followed by employees between 30-39 years, 50-59 years and 60+.
 6. The net change in employees has increased over the years.
-7. The average tenure for each department is about 4 years with Software Engineering having the highest and Admin Offices and IT/IS having the lowest.
+7. The overall average tenure for employment is around 3 years. While for each department is about 4 years with Software Engineering having the highest and Admin Offices and IT/IS having the lowest.
 8. Bonus incentives should be giving to employees who exceed performance target.
 9. Larger number of employees are recruited from mostly Indeed and LinkedIn.
 10. The gender distribution across departments is fairly distributed amongst male than female employees.

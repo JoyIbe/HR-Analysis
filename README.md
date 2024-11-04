@@ -30,6 +30,11 @@ This analysis aims to understand an organization's workforce better and make dat
 11. What is the tenure distribution for each department?
 
 
+## Dashboard
+<img width="564" alt="HR Dashboard" src="https://github.com/user-attachments/assets/51f2f2d1-eb71-4664-89f7-89d15e10a596">
+
+
+
 ## Findings and Conclusion
 1. According to this dataset, we have more female employees than male.
 2. The production departments records more turnover than other departments in the organizations while Executive office records least.

@@ -28,11 +28,11 @@ Data cleaning and processing was carried out on both Ms Excel and postgres respe
 2. The production departments records more turnover than other departments in the organizations while Executive office records least.
 3. The average length of employment for terminated employees is around 9 years.
 4. This data records more white race and US Citizens over all other races and citizenship description.
-5. Age distribution: A large number of employees are between 40-49. They are employees below 30-39 years.
+5. Age distribution: A large number of employees are between 40-49. Then followed by employees between 30-39 years, 50-59 years and 60+.
 6. The net change in employees has increased over the years.
 7. The average tenure for each department is about 4 years with Software Engineering having the highest and Admin Offices and IT/IS having the lowest.
 8. Bonus incentives should be giving to employees who exceed performance target.
-9. Larger number of employees are ecruited from mostly Indeed and LinkedIn.
+9. Larger number of employees are recruited from mostly Indeed and LinkedIn.
 10. The gender distribution across departments is fairly distributed amongst male than female employees.
     
 # Code:

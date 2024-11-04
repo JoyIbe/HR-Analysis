@@ -31,7 +31,7 @@ This analysis aims to understand an organization's workforce better and make dat
 
 
 ## Dashboard
-![HR Dashboard](https://github.com/JoyIbe/HR-Analysis/blob/main/HR%20Dashboard.png)
+![22F3BE98-B240-4582-8FE1-983D8699DC7F](https://github.com/user-attachments/assets/db796ab9-3f61-487a-8064-1fb68f8bb7eb)
 
 ## Findings and Conclusion
 1. According to this dataset, we have more female employees than male.

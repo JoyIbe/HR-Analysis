@@ -32,7 +32,7 @@ This analysis aims to understand an organization's workforce better and make dat
 
 ## Dashboard
 
-![image alt](https://github.com/JoyIbe/HR-Analysis/blob/e0e299a693b8ac483e2fbd2a871783f17aa8334b/ec2a2197-6933-4271-bd94-b4083a534bc5.jpeg)
+![image alt](https://github.com/JoyIbe/HR-Analysis/blob/main/ec2a2197-6933-4271-bd94-b4083a534bc5.jpeg?raw=true)
 ![image alt](https://github.com/JoyIbe/HR-Analysis/blob/2045ae10db82caee43bf487370392a48c13ec488/99195987-6260-44d9-91af-b9f23efc45f9.jpeg)
 
 

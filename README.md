@@ -31,7 +31,9 @@ This analysis aims to understand an organization's workforce better and make dat
 
 
 ## Dashboard
-<img width="564" alt="HR Dashboard" src="https://github.com/user-attachments/assets/51f2f2d1-eb71-4664-89f7-89d15e10a596">
+
+<img width="564" alt="HR Dashboard" src="https://github.com/user-attachments/assets/285debfa-7370-4be2-a319-53b5ca5ed35c">
+
 
 
 

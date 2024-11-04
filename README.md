@@ -31,7 +31,8 @@ This analysis aims to understand an organization's workforce better and make dat
 
 
 ## Dashboard
-![22F3BE98-B240-4582-8FE1-983D8699DC7F](https://github.com/user-attachments/assets/db796ab9-3f61-487a-8064-1fb68f8bb7eb)
+![joy-work-1](https://github.com/user-attachments/assets/f7ef8608-8520-4394-931a-2be4c51b4113)
+![joy-work-2](https://github.com/user-attachments/assets/86dd4f19-dbb5-423b-a4c7-e6a0f822b11a)
 
 
 ## Findings and Conclusion

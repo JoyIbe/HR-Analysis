@@ -89,3 +89,5 @@ CREATE TABLE human_resource(
 	Absences int
 );
 ```
+![joy-work-2](https://github.com/user-attachments/assets/038ec8ae-8f78-4ea3-9fe7-b01a0f606cfa)
+![joy-work-1](https://github.com/user-attachments/assets/b7eb9d66-cbf5-42b8-ab23-8d2d73f415a4)

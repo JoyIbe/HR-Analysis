@@ -32,6 +32,7 @@ This analysis aims to understand an organization's workforce better and make dat
 
 ## Dashboard
 ![22F3BE98-B240-4582-8FE1-983D8699DC7F](https://github.com/user-attachments/assets/db796ab9-3f61-487a-8064-1fb68f8bb7eb)
+![joy-work-1](https://github.com/user-attachments/assets/b7eb9d66-cbf5-42b8-ab23-8d2d73f415a4)
 
 ## Findings and Conclusion
 1. According to this dataset, we have more female employees than male.
@@ -89,5 +90,3 @@ CREATE TABLE human_resource(
 	Absences int
 );
 ```
-![joy-work-2](https://github.com/user-attachments/assets/038ec8ae-8f78-4ea3-9fe7-b01a0f606cfa)
-![joy-work-1](https://github.com/user-attachments/assets/b7eb9d66-cbf5-42b8-ab23-8d2d73f415a4)

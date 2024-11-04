@@ -1,6 +1,7 @@
 ## Detailed HR Analysis using Postgresql
+
+# Project Overview
 This analysis aims to understand an organization's workforce better and make data-driven decisions. It contains a variety of information related to employees, recruitment, performance, and retention.
-Data cleaning and processing was carried out on both Ms Excel and postgres respectively.
 
 # Major Features
 1. Employee Demographics: Age, gender, race, etc provide insights into workforce diversity and help analyze trends related to age and gender in specific roles.
@@ -10,7 +11,12 @@ Data cleaning and processing was carried out on both Ms Excel and postgres respe
 5. Absenteeism: Tracking absences can help identify potential issues such as burnout or dissatisfaction within teams.
 6. Employment Status: Understanding current employment status aids in retention analysis and identifying turnover rates.
 
-# Concerns
+# Tools
+- Excel: For data cleaning and processing
+- Postgresql: For data analysis
+- Powerbi: Creating visualization
+
+# Exploratory Data Analysis (EDA)
 1. What is the gender breakdown of employees in the company?
 2. What is the race/ethnicity breakdown of employees in the company?
 3. What is the age distribution of employees in the company?
